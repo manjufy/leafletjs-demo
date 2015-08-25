@@ -1,0 +1,14 @@
+{
+  "kertas": {
+    "perKG": 0.25
+  },
+  "besi": {
+    "aluminium": 3.00,
+    "tin": 0.40
+  },
+  "plastic": {
+    "plastic": 0.40,
+    "E-waste": 4.00,
+    "bateri": 1.00
+  }
+}
